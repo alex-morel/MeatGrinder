@@ -1,0 +1,20 @@
+status
+
+carne
+
+o hp de facto e composto pela soma das partes equipada no player 
+se esse stato zera o jogador morre
+
+fluido 
+
+funciona como mp do jogados e como o sangue alguns tipos de ataque provocam dano diretamente em fluido 
+tambem e utilizado como experiencia.
+se esse stato zera o jogador morre
+
+
+massa cinzenta
+
+funciona como o status inteligencia alguns tipos de ataque provocam dano diretamente em massa cinzenta
+se esse stato zera o jogador morre
+
+
